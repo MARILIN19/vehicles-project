@@ -35,7 +35,7 @@ Esta aplicación permite explorar información sobre precios y kilometraje de ve
 
 La aplicación está desplegada en Render y puede visualizarse desde el navegador.
 
-🔗 [Enlace a la aplicación:](https://vehicles-project-ewbf.onrender.com)
+🔗 [[Ver aplicación en línea](https://vehicles-project-ewbf.onrender.com)
 
 
 
